@@ -11,7 +11,22 @@ Smart ATS is an automated resume tracking system built using Streamlit and Gemin
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
    git clone https://github.com/yourusername/smart-ats.git
    cd smart-ats
+
+## Install the required dependencies
+
+ 1. pip install -r requirements.txt
+
+## Set up your environment variables by creating a .env file with your Google API key
+
+GOOGLE_API_KEY=your_google_api_key
+
+## Usage
+
+- **Run the application using Streamlit**: streamlit run app.py
+
+## Configuration
+
+Ensure you have a valid Google API key to use Gemini Pro. You can obtain one here.
+
