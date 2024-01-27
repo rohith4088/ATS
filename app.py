@@ -3,6 +3,7 @@ import google.generativeai as genai
 import os
 import PyPDF2 as pdf
 from dotenv import load_dotenv
+#Python-dotenv reads key-value pairs from a .env file and can set them as environment variables. It helps in the development of applications following the
 import json
 
 load_dotenv() ## load all our environment variables
