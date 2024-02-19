@@ -21,7 +21,6 @@
   ],
   "fn": "libffi-3.4.2-h3422bc3_5.tar.bz2",
   "license": "MIT",
-  "license_family": "MIT",
   "link": {
     "source": "/Users/rohithr/miniforge3/pkgs/libffi-3.4.2-h3422bc3_5",
     "type": 1
@@ -51,7 +50,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libffi_1636488416706/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
         "sha256": "4b9d295a8ad6318f75f093b4d9e9e10aa55928e1b8154e6faacb59dc063d80a7",
-        "sha256_in_prefix": "7fccd981cb98208ef94efa73807fe4ef66704951595e6c4ca7a1829221e9d753",
+        "sha256_in_prefix": "bdf1fba2ebbe0942f546f8622d351286193be8f3052a1c5b5140e11de5522d1f",
         "size_in_bytes": 120496
       },
       {
@@ -118,7 +117,7 @@
   "sha256": "41b3d13efb775e340e4dba549ab5c029611ea6918703096b2eaa9c015c0750ca",
   "size": 39020,
   "subdir": "osx-arm64",
-  "timestamp": 1636488587153,
+  "timestamp": 1636488587000,
   "track_features": "",
   "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libffi-3.4.2-h3422bc3_5.tar.bz2",
   "version": "3.4.2"
